@@ -6138,6 +6138,16 @@ let ivana = new Queen("Ivana Vamp", 6, 5, 6, 6, 6, 6, 5, "Ivana");
 let riche = new Queen("Le Riche", 6, 8, 6, 8, 9, 8, 7, "Riche");
 let luquisha = new Queen("Luquisha Lubamba", 7, 6, 6, 5, 7, 6, 7, "Luquisha");
 let italia = [ava, divinity, elecktra, enorma, farida, ivana, riche, luquisha];
+//KLDR SEASON 1: 
+let Lily = new Queen("Lily Pad", 10, 10, 10, 10, 10, 10, 10, "Lily");
+let Mary = new Queen("Mary Thottins", 10, 10, 10, 10, 10, 10, 10, "Mary");
+let Rin = new Queen("Rin", 10, 10, 10, 10, 10, 10, 10, "Rin");
+let Angelica = new Queen("Angelica", 10, 10, 10, 10, 10, 10, 10, "Angelica");
+let Anna = new Queen("Anna conda", 10, 10, 10, 10, 10, 10, 10, "Anna");
+let Stelleto = new Queen("Stelleto", 10, 10, 10, 10, 10, 10, 10, "Stelleto");
+let MissDucky = new Queen("Miss Ducky", 10, 10, 10, 10, 10, 10, 10, "MissDucky");
+let Auroria = new Queen("Auroria'Owhora",10, 10, 10, 10, 10, 10, 10, "Auroria");
+let Ayselle = new Queen("Ayselle", 10, 10, 10, 10, 10, 10, 10, "Ayselle");
 //SPECIAL 
 let pangina = new Queen("Pangina Heals", 9, 7, 14, 11, 8, 13, 14, "Pangina");
 let international_as = [baga, blu, cheryl, janey, jimbo, jujubee, lemon, monique, pangina];
