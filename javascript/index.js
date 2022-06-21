@@ -6148,6 +6148,7 @@ let Stelleto = new Queen("Stelleto", 10, 10, 10, 10, 10, 10, 10, "Stelleto");
 let MissDucky = new Queen("Miss Ducky", 10, 10, 10, 10, 10, 10, 10, "MissDucky");
 let Auroria = new Queen("Auroria'Owhora",10, 10, 10, 10, 10, 10, 10, "Auroria");
 let Ayselle = new Queen("Ayselle", 10, 10, 10, 10, 10, 10, 10, "Ayselle");
+let KLDR_Season1 = [Lily, Mary, Rin, MissDucky, Angelica, Stelleto, Anna, Auroria, Ayselle ];
 //SPECIAL 
 let pangina = new Queen("Pangina Heals", 9, 7, 14, 11, 8, 13, 14, "Pangina");
 let international_as = [baga, blu, cheryl, janey, jimbo, jujubee, lemon, monique, pangina];
